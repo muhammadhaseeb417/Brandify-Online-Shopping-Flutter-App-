@@ -1,0 +1,73 @@
+name: brand_shoes
+description: "A new Flutter project."
+ 
+ 
+publish_to: 'none'  
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  water_drop_nav_bar: ^2.2.2
+  google_fonts: ^6.2.1
+  get: ^4.6.6
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.3.0
+  firebase_storage: ^12.2.0
+  path: ^1.9.0
+  image_picker: ^1.1.2
+  get_it: ^7.7.0
+  device_preview: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+   
+  flutter_lints: ^4.0.0
+  
+
+
+flutter:
+
+  uses-material-design: true
+
+   
+   
+   
+   
+
+   
+   
+
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
